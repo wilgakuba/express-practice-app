@@ -1,0 +1,11 @@
+{
+  "name": "express-practice-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wilgakuba/express-practice-app.git",
+  "author": "Jakub Wilga <wilga327@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
